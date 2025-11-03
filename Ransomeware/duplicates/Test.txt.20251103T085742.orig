@@ -1,0 +1,13 @@
+Nice — below is a self-contained minimal implementation of Step 1: Initialization (GUI + Setup) and the wiring between the GUI → Controller → DB → Watcher → Analyzer → Protector. This code focuses on:
+
+GUI where user enters Master Password, adds watch folders, starts/stops monitoring.
+
+Controller that initializes DB, Analyzer, Protector, and starts the Watchdog observer thread.
+
+Simple DB, crypto utilities, watcher, analyzer, and protector (backup-only for now).
+
+You can run this locally after installing the dependencies. It’s ready to extend for the rest of the features (entropy checks, process-kill, alerts, restore/decrypt UI, etc.).
+TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!
+TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!TestPass123!
+
+

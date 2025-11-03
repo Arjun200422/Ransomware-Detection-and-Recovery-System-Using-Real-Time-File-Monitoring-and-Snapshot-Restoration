@@ -1,0 +1,15 @@
+timestamp_iso,event_type,event_path,action_taken,note
+2025-11-03T08:06:11.058697+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restored_and_duplicated,D:\MYPROJECTS\IS\Ransomeware\duplicates\fil.txt.20251103T080611.orig
+2025-11-03T08:15:19.464472+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restore_failed_no_snapshot,D:\MYPROJECTS\IS\Ransomeware\snapshots\fil.txt
+2025-11-03T08:15:31.894189+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restore_failed_no_snapshot,D:\MYPROJECTS\IS\Ransomeware\snapshots\fil.txt
+2025-11-03T08:15:39.556889+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restore_failed_no_snapshot,D:\MYPROJECTS\IS\Ransomeware\snapshots\fil.txt
+2025-11-03T08:15:43.180196+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restore_failed_no_snapshot,D:\MYPROJECTS\IS\Ransomeware\snapshots\fil.txt
+2025-11-03T08:15:46.429856+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restore_failed_no_snapshot,D:\MYPROJECTS\IS\Ransomeware\snapshots\fil.txt
+2025-11-03T08:15:50.500409+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restore_failed_no_snapshot,D:\MYPROJECTS\IS\Ransomeware\snapshots\fil.txt
+2025-11-03T08:15:58.131956+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restored_and_duplicated,D:\MYPROJECTS\IS\Ransomeware\duplicates\fil.txt.20251103T081558.orig
+2025-11-03T08:16:13.044696+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restored_and_duplicated,D:\MYPROJECTS\IS\Ransomeware\duplicates\fil.txt.20251103T081613.orig
+2025-11-03T08:54:14.475771+00:00,user_reported_not_me,D:\MYPROJECTS\IS\testing\fil.txt,alert_shown,count=1
+2025-11-03T08:54:23.212120+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,ignored_by_user,user indicated they performed the action
+2025-11-03T08:56:28.593970+00:00,modified,D:\MYPROJECTS\IS\testing\fil.txt,restored_and_duplicated,D:\MYPROJECTS\IS\Ransomeware\duplicates\fil.txt.20251103T085628.orig
+2025-11-03T08:57:42.392768+00:00,modified,D:\MYPROJECTS\IS\testing\Test.txt,restored_and_duplicated,D:\MYPROJECTS\IS\Ransomeware\duplicates\Test.txt.20251103T085742.orig
+2025-11-03T09:01:01.013382+00:00,user_reported_not_me,D:\MYPROJECTS\IS\testing\fil.txt,alert_shown,count=1

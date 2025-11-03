@@ -1,0 +1,16 @@
+Ransomware is a type of malware that encrypts a victim's files, making them inaccessible until a ransom is paid, typically in cryptocurrency, in exchange for a decryption key. It can spread through methods like phishing emails, malicious websites, or by exploiting vulnerabilities in systems and networks. Attackers use it to extort money by holding data or systems hostage and may also threaten to release stolen data. 
+How it works
+Infection: Attackers gain access to a system through a variety of methods, such as a user opening a malicious email attachment or clicking a link.
+Encryption: Once installed, the ransomware scans for and encrypts files, often targeting important documents, databases, and even backup files.
+Demanding ransom: The malware then displays a message demanding payment, usually in cryptocurrency, within a specific timeframe to get the decryption key.
+Extortion: In some cases, attackers also threaten to leak or sell the stolen data if the ransom is not paid, a method known as "double extortion". 
+Types of ransomware
+Crypto ransomware: This is the most common type, which encrypts files and requires a decryption key to restore them.
+Locker ransomware: This type locks the victim out of their device, making the entire system unusable until the ransom is paid. 
+Why you shouldn't pay
+No guarantee: There is no guarantee that the attackers will provide the decryption key even after payment.
+Perpetuates the crime: Paying encourages further attacks and allows criminals to continue their activities.
+Risk of data theft: Attackers may still leak or sell the data they exfiltrated, even if you pay the ransom. 
+hi bye
+
+hello
